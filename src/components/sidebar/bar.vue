@@ -1,5 +1,5 @@
 <template>
-  <aside class="w-64 bg-white shadow-lg border-r h-screen p-6 flex flex-col">
+  <aside class="w-64 bg-gray-400 shadow-lg border-r h-screen p-6 flex flex-col">
 
     <!-- Logo -->
     <h1 class="text-2xl font-bold mb-8">
@@ -25,7 +25,7 @@
 
     <!-- Footer -->
     <div class="pt-4 border-t text-sm text-gray-500">
-      © 2026 Hotel System
+      © Hotel System
     </div>
   </aside>
 </template>
